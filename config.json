@@ -1,0 +1,175 @@
+{
+  "bot": {
+    "prefix": "!",
+    "debug": true,
+    "test_mode": true
+  },
+  "credentials": {
+    "cookies": [
+      {
+        "key": "zpdid",
+        "value": "41JwabVohpqQ7vUIMFt4D1mGbPvUzCCu",
+        "maxAge": 157680000,
+        "domain": "id.zalo.me",
+        "path": "/",
+        "secure": true,
+        "httpOnly": true,
+        "hostOnly": false,
+        "creation": "2026-03-31T20:21:26.080Z",
+        "lastAccessed": "2026-03-31T20:21:26.080Z",
+        "sameSite": "lax"
+      },
+      {
+        "key": "zlogin_session",
+        "value": "kW4JGLyjCnIxFnDDLXTbH-Tj1aDV4Mf5wsiILm9MP5sWBm934LDbNQOh7riYVG",
+        "maxAge": 3600,
+        "domain": "id.zalo.me",
+        "path": "/",
+        "secure": true,
+        "httpOnly": true,
+        "hostOnly": false,
+        "creation": "2026-03-31T20:21:26.082Z",
+        "lastAccessed": "2026-03-31T20:21:26.082Z",
+        "sameSite": "lax"
+      },
+      {
+        "key": "_zlang",
+        "value": "vn",
+        "expires": "2026-03-30T21:10:54.000Z",
+        "maxAge": 86400,
+        "domain": "zalo.me",
+        "path": "/",
+        "secure": true,
+        "hostOnly": false,
+        "creation": "2026-03-31T20:21:26.083Z",
+        "lastAccessed": "2026-03-31T20:21:26.308Z"
+      },
+      {
+        "key": "zpsid",
+        "value": "h8Ip.453157847.26.3xVA1aK864AIgnfPIGWOGZ1xQdPmEobtSZ0iTMzvKqGHZ8znH5IDYom8648",
+        "maxAge": 31536000,
+        "domain": "zalo.me",
+        "path": "/",
+        "secure": true,
+        "httpOnly": true,
+        "hostOnly": false,
+        "creation": "2026-03-31T20:21:26.083Z",
+        "lastAccessed": "2026-03-31T20:21:26.308Z",
+        "sameSite": "none"
+      },
+      {
+        "key": "__zi",
+        "value": "3000.QOBlzDCV2uGerkFzm0LJqcNNuVR51nZRPjUf_yC86jPasgtx.1",
+        "maxAge": 63072000,
+        "domain": "zalo.me",
+        "path": "/",
+        "secure": true,
+        "hostOnly": false,
+        "creation": "2026-03-31T20:21:26.083Z",
+        "lastAccessed": "2026-03-31T20:21:26.308Z",
+        "sameSite": "none"
+      },
+      {
+        "key": "zlogtype",
+        "value": "EXPIRED",
+        "expires": "1970-01-01T00:00:00.000Z",
+        "maxAge": 0,
+        "domain": "id.zalo.me",
+        "path": "/",
+        "secure": true,
+        "httpOnly": true,
+        "hostOnly": false,
+        "creation": "2026-03-31T20:21:26.083Z",
+        "lastAccessed": "2026-03-31T20:21:26.083Z"
+      },
+      {
+        "key": "zpsid",
+        "value": "eMKnVcAlVqAZUYmFQVXR7ELsK4ns-LaNu7H9HdJWH5s06qjVQPb328fg6WLEW6qXktKK62YtUn_QO00J6gvjAeXz1mHGiN8MjKCMJMsNO1k6QGSNIUiFG3W",
+        "maxAge": 31536000,
+        "domain": "zaloapp.com",
+        "path": "/",
+        "secure": true,
+        "httpOnly": true,
+        "hostOnly": false,
+        "creation": "2026-03-31T20:21:26.083Z",
+        "lastAccessed": "2026-03-31T20:21:26.083Z",
+        "sameSite": "none"
+      },
+      {
+        "key": "__zi",
+        "value": "3000.QOBlzDCV2uGerkFzm0LJqcNNuVR51nZRPjUf_yC86jPasgZ_.1",
+        "maxAge": 63072000,
+        "domain": "zaloapp.com",
+        "path": "/",
+        "secure": true,
+        "hostOnly": false,
+        "creation": "2026-03-31T20:21:26.083Z",
+        "lastAccessed": "2026-03-31T20:21:26.083Z",
+        "sameSite": "none"
+      },
+      {
+        "key": "zpw_sek",
+        "value": "FFRy.453157847.a0.OUNjPnrYG3JAmK8lF690D6P09Ly_M69IKomhPIibDbvBKmDoN0bvHNOsQtvCNtqMO4WnVnisnACkOnsXr0j0D0",
+        "maxAge": 7775973,
+        "domain": "chat.zalo.me",
+        "path": "/",
+        "secure": true,
+        "httpOnly": true,
+        "hostOnly": false,
+        "creation": "2026-03-31T20:21:26.083Z",
+        "lastAccessed": "2026-03-31T20:21:26.308Z",
+        "sameSite": "lax"
+      },
+      {
+        "key": "app.event.zalo.me",
+        "value": "7713100542915103875",
+        "expires": "2026-04-02T20:22:12.000Z",
+        "domain": "zalo.me",
+        "path": "/",
+        "httpOnly": true,
+        "hostOnly": false,
+        "creation": "2026-03-31T20:21:26.084Z",
+        "lastAccessed": "2026-03-31T20:21:26.308Z"
+      }
+    ],
+    "imei": "0dac043b-8bc0-4546-9d2a-18a8bf4b7f29-91e1a2a41c0741f7f47615ab9de2fb8a",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+  },
+  "user_info": {
+    "name": "Hoàng Thị Mẫn Nhi",
+    "avatar": "https://s120-ava-talk.zadn.vn/1/b/f/4/1/120/59d72095f0601058fbba50ad38aa9e07.jpg"
+  },
+  "admin": {
+    "ids": [
+      "6507497158633565458"
+    ]
+  },
+  "commands": {
+    "enabled": true,
+    "default_commands": [
+      "help",
+      "ping",
+      "hello",
+      "info",
+      "admin"
+    ]
+  },
+  "plugins": {
+    "enabled": true,
+    "auto_load": [
+      "weather",
+      "joke",
+      "calculator"
+    ]
+  },
+  "events": {
+    "enabled": true,
+    "handlers": [
+      "auto_reply"
+    ]
+  },
+  "logging": {
+    "level": "INFO",
+    "format": "[%(asctime)s] [%(name)s] [%(levelname)s] %(message)s"
+  }
+}
