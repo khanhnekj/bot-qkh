@@ -1,0 +1,37 @@
+{
+  "bot": {
+    "prefix": "-",
+    "selfListen": true,
+    "autoAcceptInvites": false,
+    "adminOnly": true,
+    "deleteReactions": [
+      "186",
+      ":-@",
+      "/-angry"
+    ]
+  },
+  "credentials": {
+    "cookies": "",
+    "imei": "",
+    "userAgent": ""
+  },
+  "admin": {
+    "ids": [
+      "1234567890"
+    ]
+  },
+  "zalopay": {
+    "appid": "",
+    "key1": "",
+    "key2": "",
+    "create_url": "https://sb-openapi.zalopay.vn/v2/create",
+    "query_url": "https://sb-openapi.zalopay.vn/v2/query"
+  },
+  "kaia": {
+    "token": "",
+    "channelId": ""
+  },
+  "pixverse": {
+    "token": ""
+  }
+}
